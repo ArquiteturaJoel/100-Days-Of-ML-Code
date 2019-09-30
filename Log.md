@@ -18,11 +18,6 @@ There are only 3 rules.
 **Today's Progress** : Take slow, look the fundamentals and read
 Check out the code from [here](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
-<p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
-</p>
-
-
 **Thoughts** : It´s go be very fun! Don´t forget the qkLabs!
 
 
